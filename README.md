@@ -7,7 +7,7 @@ Terminal-based audio-to-text converter
 ![GitHub search hit counter](https://img.shields.io/github/search/sveneschlbeck/att/goto?color=brown)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/att?color=azure)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sveneschlbeck/att?color=orange)
-![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/att)attatt
+![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/att)
 *****
 
 ## Project description
