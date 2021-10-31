@@ -36,9 +36,11 @@ conda install -c conda-forge pydub
 
 This code is licensed under ``GPL-3.0 License``.
 
-## Example usage
+## Usage
 
 To convert an audio file to text, start a terminal session, navigate to the location of the required module (e.g. `att_wav.py`) and start a python shell running the code by typing ```python att_wav.py```.
+
+Note that the `att_wav.py` can only handle `.wav` files due to the implementation of the underlying speech recognition API.
 
 ## Hardware & Software Requirements
 
