@@ -1,6 +1,3 @@
-# **att**
-Terminal-based audio-to-text converter
-
 *****
 ![GitHub language count](https://img.shields.io/github/languages/count/sveneschlbeck/att?color=pink)
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/att?color=white)
@@ -10,7 +7,9 @@ Terminal-based audio-to-text converter
 ![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/att)
 *****
 
-## Project description
+[![att logo](logo.png)]
+
+## Project Description
 
 A terminal-based audio-to-text converter written in python, enabling you to convert `.wav` files or microphone input into text and save it to a file.
 
